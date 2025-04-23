@@ -2,9 +2,9 @@
 
 namespace Furqat\Larion\Tests;
 
+use Furqat\Larion\LarionServiceProvider;
 use Illuminate\Database\Eloquent\Factories\Factory;
 use Orchestra\Testbench\TestCase as Orchestra;
-use Furqat\Larion\LarionServiceProvider;
 
 class TestCase extends Orchestra
 {
