@@ -1,12 +1,12 @@
 <?php
 
-namespace VendorName\Skeleton\Commands;
+namespace Furqat\Larion\Commands;
 
 use Illuminate\Console\Command;
 
-class SkeletonCommand extends Command
+class LarionCommand extends Command
 {
-    public $signature = 'skeleton';
+    public $signature = 'larion';
 
     public $description = 'My command';
 
